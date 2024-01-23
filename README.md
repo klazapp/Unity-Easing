@@ -9,7 +9,7 @@ The `Easing` utility, part of the `com.Klazapp.Utility` namespace, is designed t
 - ften leverage third-party tweening libraries that provide pre-built easing functions and simplify the process of creating animations.
 
 ## Dependencies
-To use `LogMessage`, certain dependencies are required. Ensure these are included in your Unity project.
+To use `Easing`, certain dependencies are required. Ensure these are included in your Unity project.
 - **Unity Version**: Minimum Unity 2020.3 LTS.
 - Unity Mathematics dll
 
